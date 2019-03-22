@@ -1,2 +1,0 @@
-# Temenos
-venkatesh
