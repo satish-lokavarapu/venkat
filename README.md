@@ -1,3 +1,0 @@
-# Temenos
-venkatesh
-test
